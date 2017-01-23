@@ -109,3 +109,17 @@ qiniu:
     folder: js
   css:
     folder: css
+
+#多说
+duoshuo_shortname: qqdong
+duoshuo_share: true
+
+#百度统计
+baidu_analytics: 48e81d160a0773a1af5455493c416547
+
+#搜索
+#Local Search 
+search:
+  path: search.xml
+  field: post
+
